@@ -22,11 +22,17 @@ URL: https://reqres.in/
   </p>
   <p># Add So Many Sampler in for Load Testing and Test Indivisualy</p>
 
-<h1>Tests</h1>
-<img width="100%" src="https://i.ibb.co/QY6b5F7/Screenshot-3.png" alt="Girl inhh a jacket">
+<h1>Thread Group</h1>
+<img width="100%" src="https://i.ibb.co/hRL8F4D/Thread-group.png" alt="Girl inhh a jacket">
 
-<h1> Newman Report </h1>
-<img src="https://i.ibb.co/Rc506xy/Screenshot-1.png" alt="Girl in a jacket">
+<h1> HTTP Request </h1>
+<img src="https://i.ibb.co/JmWRfYw/https.png" alt="Girl in a jacket">
+
+<h1> View Result Tree </h1>
+<img src="https://i.ibb.co/fHdnsXQ/view-tree.png" alt="Girl in a jacket">
+
+<h1> Summery Report </h1>
+<img src="https://i.ibb.co/R7Yb2CP/summery-report.png" alt="Girl in a jacket">
 
 </body>
 </html>
