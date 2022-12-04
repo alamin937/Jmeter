@@ -21,6 +21,11 @@ URL: https://reqres.in/
     * Aggregate Report <br>
   </p>
   <p># Add So Many Sampler in for Load Testing and Test Indivisualy</p>
+  
+  <h1>Report Generate Command line</h1>
+  <p>jmeter -n -t work.jmx -l report\work.jtl <br>
+
+jmeter -g report\work.jtl -o report\work.html</p>
 
 <h1>Thread Group</h1>
 <img width="100%" src="https://i.ibb.co/hRL8F4D/Thread-group.png" alt="Girl inhh a jacket">
@@ -33,6 +38,10 @@ URL: https://reqres.in/
 
 <h1> Summery Report </h1>
 <img src="https://i.ibb.co/R7Yb2CP/summery-report.png" alt="Girl in a jacket">
+
+<h1> Test Report </h1>
+<img src="https://i.ibb.co/XJsLtd6/Report.png" alt="Girl in a jacket">
+<img src="https://i.ibb.co/8KwWs3G/Report2.png" alt="Girl in a jacket">
 
 </body>
 </html>
